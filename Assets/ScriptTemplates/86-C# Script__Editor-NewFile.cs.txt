@@ -1,0 +1,11 @@
+using UnityEngine;
+using UnityEditor;
+
+[CustomEditor(typeof(Types))]
+public class #SCRIPTNAME# : Editor
+{
+    public override void OnInspectorGUI()
+    {
+        base.OnInspectorGUI();
+    }
+}
