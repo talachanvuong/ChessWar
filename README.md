@@ -1,2 +1,0 @@
-# ChessWar
-Clone chess
